@@ -1,6 +1,6 @@
 {
 	"name": "buggr",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "Better Debug and Logging for Node.js",
   "homepage": "http://stephencwright.co.uk",
   "keywords": [
@@ -26,6 +26,6 @@
     "url": "https://github.com/scwright1/buggr/issues"
   },
   "homepage": "https://github.com/scwright1/buggr",
-  "_id": "buggr@0.1.2",
+  "_id": "buggr@0.1.4",
   "_from": "buggr@"
 }
